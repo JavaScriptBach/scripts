@@ -13,7 +13,7 @@ Converts ape/cue, flac/cue or wv/cue files to individual .flac files.
 
 #### flac2mp3itunes.sh
 
-Converts .flac files to V0 mp3 and moves it to my iTunes folder on my Windows partition.
+Converts .flac files to V0 mp3 and moves it to my iTunes folder on my Windows partition. Requires flac2all_v3.38.py.
 
 #### RenamefilestocopyfromLinux.sh
 
